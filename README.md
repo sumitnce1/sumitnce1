@@ -13,5 +13,5 @@
 # Coding Site
 |Sumit| Webisite|
 |-----| -------- |
-|**My GitHub**| [**Visit**](https://github.com/sumitnce1)
-
+|**GitHub**| [**Visit**](https://github.com/sumitnce1)
+|**GeeksForGeeks**| [**Visit**](https://auth.geeksforgeeks.org/user/sumitsingh1111/)
