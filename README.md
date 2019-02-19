@@ -3,9 +3,9 @@
 |-----| -------- |
 |**My Personal Website**| [**Visit**](https://sumitnce1.github.io)
 |**This project is complete learning few days December, 2018.**|
-<img src="/sumit.png" width="50%">
+<img src="/img/mysitefrist.png" width="50%">
 
-<img src="/img/sumit.png" width="60%">
+<img src="/img/sumit.png" width="63%">
 
 # Coding Site
 |Sumit| Webisite|
