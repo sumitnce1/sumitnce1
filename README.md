@@ -7,7 +7,7 @@
 
 <img src="/img/sumit.png" width="63%">
 
-# Coding Site
+### Coding Site
 |Sumit| Webisite|
 |-----| -------- |
 |**GitHub**| [**Visit**](https://github.com/sumitnce1)
