@@ -4,7 +4,7 @@
 |**My Personal Website**| [**Visit**](https://sumitnce1.github.io)
 |**My Portfolio 1**| [**Visit**](http://sumitnce.ml)
 |**My Calsi**| [**Visit**](http://sumitcalsi.tk)
-|**This project is complete learning few days December, 2018.**|
+|**This project is complete learning few da December, 2018.**|
 <img src="/img/mysitefrist.png" width="100%">
 
 <img src="/img/sumit.png" width="63%">
