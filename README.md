@@ -7,7 +7,7 @@
 |**This project is complete learning few days December, 2018.**|
 <img src="/img/mysitefrist.png" width="100%">
 
-<img src="/img/sumit.png" width="63">
+<img src="/img/sumit.png" width="63%">
 
 # Coding Site
 |Sumit| Webisite|
