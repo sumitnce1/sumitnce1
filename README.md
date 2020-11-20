@@ -34,7 +34,8 @@
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnce1&layout=compact" alt="sumitnce1" /></p>
-<p>&nbsp;&nbsp&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitnce1&show_icons=true" alt="sumitnce1" /></p>
+<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitnce1&show_icons=true" alt="sumitnce1" /></p>
 
 [website]: https://sumitnce1.github.io
 [twitter]: https://twitter.com/sumitnce
