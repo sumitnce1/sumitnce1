@@ -4,7 +4,15 @@
 [![X Follow](https://img.shields.io/twitter/follow/sumitnce?color=1DA1F2&logo=x&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsumitnce&screen_name=sumitnce)
 
 ### 👨‍💻 About Me:
-I am a passionate Full Stack Developer with a focus on building scalable and efficient web applications. I have experience with modern technologies, databases, and APIs. I love solving problems and contributing to open-source projects. Let's build something great together!
+◉ Hey there! I'm [Sumit Kumar](https://www.linkedin.com/in/sumitnce/), a Full-Stack Java, Node.js, and .NET Developer enthusiastic about crafting seamless web experiences.
+
+◉ Proficient in Spring Boot, Node Js and Dot NET frameworks, I thrive on developing high-impact applications that deliver tangible results.
+
+◉ SEO Specialist: Seamlessly integrating SEO strategies into my code to drive growth and enhance user experiences.
+
+◉ Skilled in Event Management, I streamline processes and foster effective communication for dynamic work environments.
+
+◉ Let's connect! Whether it's brainstorming tech innovations or exploring collaborations, I'm eager to engage with fellow professionals.
 
 ### 🔗 Connect with me:
 [<img align="left" alt="sumitnce1.github.io" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -13,7 +21,6 @@ I am a passionate Full Stack Developer with a focus on building scalable and eff
 [<img align="left" alt="sumitnce | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="sumitnce | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 <br />
 
 ### 🚀 Languages and Tools:
@@ -68,27 +75,27 @@ I am a passionate Full Stack Developer with a focus on building scalable and eff
 [<img align="left" alt="Figma" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="margin: 1px;" />](https://www.figma.com/)
 [<img align="left" alt="XD" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" style="margin: 1px;" />](https://www.adobe.com/products/xd.html)
 
-<br /><br />
-### 📊 GitHub Stats:
+<br />
+<br />
+<br />
 
+### 📅 Activity Graph:
+[![SUMIT's Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitnce1&theme=react-dark&from=2020-01-01&to=2020-03-15&point=ff4000&area=true&hide_border=true&custom_title=Activity%20Graph)](https://github.com/sumitnce1)
+
+### 📊 GitHub Stats:
 ![SUMIT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitnce1&show_icons=true&count_private=true&theme=dark)
 
 ### 🔥 Top Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnce1&layout=compact&theme=dark)
 
+### 🏆 Github Trophies
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=sumitnce1&theme=onedark&column=9&margin-w=25&margin-h=15)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+
 ### 💬 Ask me about:
 - Web development, Full Stack (Java, Node.js, .NET, JavaScript, React)
 - Database management and optimization (MongoDB, MySQL)
 - Open-source contributions and collaboration
-
-<br />
-
-### 📅 Activity Graph:
-[![SUMIT's Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitnce1&theme=react-dark&point=ff4000&area=true&hide_border=true&custom_title=Activity%20Graph)](https://github.com/sumitnce1)
-
-### 🏆 Github Trophies
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=sumitnce1&theme=onedark&column=9&margin-w=25&margin-h=15)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
 [website]: https://sumitnce1.github.io
 [twitter]: https://x.com/sumitnce
